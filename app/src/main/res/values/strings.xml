@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pildoras</string>
+    <string name="Title">Contador</string>
+    <string name="reset">Reiniciar</string>
+    <string name="Number">numero</string>
+    <string name="currentN" />
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
